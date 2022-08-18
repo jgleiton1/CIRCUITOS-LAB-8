@@ -24,10 +24,6 @@
 
 ***
 
-**3. Explicacion del procedimiento**
-
-***
-
 **4. Materiales y equipos requeridos**
 
 ![image](https://user-images.githubusercontent.com/94011974/185511795-5b724ba9-8751-4d95-b9a0-9091617d7e71.png)
