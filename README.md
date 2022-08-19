@@ -126,17 +126,19 @@ No coinciden, esto se debe a que el osciloscopio da el valor del voltaje pico, m
 
 ***
 
-**6. Cálculo de error**
-
-![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
-
-***
-
 **7. Vídeo**
 
 ***
 
 **8. Conclusiones**
+
+- A partir de lo investigado anteriormente, se puede decir la onda senoidal es el tipo fundamental de la corriente y voltaje alterno. Las fuentes que producen estas ondas son las maquinas eléctricas y los circuitos osciladores. En su representación gráfica el voltaje o la corriente se muestra en el eje vertical y el tiempo en el eje horizontal, estos comienzan en cero y su voltaje o corriente se incrementan hasta un máximo positivo y luego hasta un máximo negativo, completando así un ciclo, mientras que para su representación matemática se lo puede expresar en función de su magnitud de corriente o voltaje con los valores instantáneos pico, pico a pico, rms, y promedio.
+
+- Como se ha podido observar en el laboratorio virtual ACDCLab,la onda senoidal tiene dos dimensiones que son el tiempo y el voltaje o corriente, las propiedades que se pueden observar gracias al osciloscopio es  la polaridad de la onda, que durante la alternación positiva del voltaje la corriente fluye en una dirección y cuando vemos que la alternaciones negativa la corriente fluye e la dirección opuesta, las alternaciones son las que forman un ciclo de una onda seno como podemos observar. También se comprobó las propiedades del periodo y frecuencia, como observamos la onda seno se repite a sí mismo en ciclos idénticos como estos son iguales el periodo siempre tiene un valor fijo y la frecuencia como se puedo observar es el número de ciclo que una onda seno completa da en un segundo
+
+- En la justificación del video se pude observar las practicas realizadas en el laboratorio virtual para entender de mejor manera la onda senoidal y sus propiedades, y responder a las interrogantes planteadas en la investigación.
+
+- En base a las interrogantes, que se centran en expresar el valor de una onda seno mediante los valores pico, pico a pico y rms, podemos concluir que nuestro valor pico es decir el valor máximo de nuestra onda es de 6.86 V aproximadamente y nuestro valor eficaz es 4,833 esto se debe a que el valor rms es en realidad una medida del efecto de calentamiento de la onda seno, en nuestro caso como se encuentra un resistor entre las terminales de la fuente de voltaje sinusoidal de corriente alterna, se genera calor por la potencia del resistor, por lo que se ajusta y la cantidad es menor.
 
 ***
 
