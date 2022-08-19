@@ -31,6 +31,19 @@ Demostrar las propiedades de la onda senoidal experimentalmente, mediante práct
 
 **2. Marco Teórico**
 
+![image](https://user-images.githubusercontent.com/105686218/185543710-b5c6c9be-a704-456e-8a2c-eecba32d77dd.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185543738-e069156f-6094-4513-811e-c1de2099026f.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185543772-848ccf01-5e43-4e82-a3f8-f73a4c8736d5.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185543799-cb35693b-a2e9-4c94-9992-b075ff455ee5.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185543825-67f0765a-c8c2-4327-a8b8-aca8f1ae7546.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185543849-0c3a6c0e-871a-4a64-a9e0-2dff3dbba592.png)
+
+
 ***
 
 **4. Materiales y equipos requeridos**
