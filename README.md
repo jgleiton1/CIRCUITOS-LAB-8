@@ -128,6 +128,8 @@ No coinciden, esto se debe a que el osciloscopio da el valor del voltaje pico, m
 
 **7. Vídeo**
 
+https://youtu.be/l64Ri75-a6Y
+
 ***
 
 **8. Conclusiones**
