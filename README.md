@@ -14,9 +14,18 @@
 
    **1.1. Objetivo General** 
 
+Demostrar las propiedades de la onda senoidal experimentalmente, mediante prácticas realizadas en el laboratorio virtual ACDCLab, afianzando los conocimientos adquiridos en clase sobre el tema propuesto.
+
 ***
 
   **1.2. Objetivos Específicos:**
+- Comprender que es una onda senoidal y su representación gráfica y matemática, mediante una búsqueda bibliográfica.
+
+- Analizar el comportamiento de la onda senoidal, mediante simulaciones realizadas en el laboratorio virtual ACDCLab.
+
+- Explicar el desarrollo del laboratorio, mediante un video, el cual exponga la teoría y las prácticas realizadas en el laboratorio virtual ACDCLab.
+
+- Justificar lo aprendido mediante la contestación a las interrogantes que se plantean en el laboratorio.
 
 ***
 
